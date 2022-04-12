@@ -5,3 +5,6 @@ jpa를 공부하면서 책에 있는 예제 구현
 
 orderList.html 바로가기
 [orderList.html](https://github.com/wnghdtjr129/jpashopCloneCoding/blob/main/src/main/resources/templates/order/orderList.html)
+
+api controller
+[web.OrderController#orders](https://github.com/wnghdtjr129/jpashopCloneCoding/blob/main/src/main/java/jpabook/jpashop/web/OrderController.java)
